@@ -131,6 +131,37 @@ The application provides:
 * CSV Report
 
 ---
+## 📸 Project Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Video Upload
+
+![Upload](screenshots/upload.png)
+
+---
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Analytics
+
+![Analytics](screenshots/analytics.png)
+
+---
+
+### Processed Video
+
+![Processed Video](screenshots/processed_video.png)
+
+---
 
 ## 🚀 Future Improvements
 
